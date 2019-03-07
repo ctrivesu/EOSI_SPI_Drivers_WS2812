@@ -1,0 +1,1 @@
+cmd_/home/ravi/Desktop/EOSI/Fall_2018/Assignments/3/Part_2/ws2812.ko := i586-poky-linux-ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/ravi/Desktop/EOSI/Fall_2018/Assignments/3/Part_2/ws2812.ko /home/ravi/Desktop/EOSI/Fall_2018/Assignments/3/Part_2/ws2812.o /home/ravi/Desktop/EOSI/Fall_2018/Assignments/3/Part_2/ws2812.mod.o
